@@ -22,6 +22,16 @@
  *          - Obi-Wan Kenobi says, "These aren't the droids you're looking for."
  */
 
+/*
+ *  PSEUDOCODE:
+ *      Create scanner and string variables for quote and author strings
+ *      Prompt for quote.
+ *      Read quote.
+ *      Prompt for author.
+ *      Read author.
+ *      Print combined string output with included escape
+ */
+
 
 import java.util.Scanner;
 
